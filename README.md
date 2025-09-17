@@ -52,12 +52,7 @@ O dashboard facilita a **tomada de decisão**, oferecendo insights claros sobre 
 
 <br><br>
 
-
-
-<br>
 <a href="https://app.powerbi.com/groups/me/reports/0058e39d-3f17-45c6-bf92-a7a2d5d64568/6513b71b44b8d6896289?experience=power-bi">Clique aqui</a> e acesse o a DFC desenvolvida.
-<br>
-<a href="https://github.com/camilla-menezes/AdventureWorksPortfolio/tree/main" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
 <br><br>
 
  
