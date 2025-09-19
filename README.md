@@ -52,8 +52,12 @@ O dashboard facilita a **tomada de decisão**, oferecendo insights claros sobre 
 
 <br><br>
 
-<a href="https://app.powerbi.com/groups/me/reports/0058e39d-3f17-45c6-bf92-a7a2d5d64568/6513b71b44b8d6896289?experience=power-bi">Clique aqui</a> e acesse o a DFC desenvolvida.
+<a href="https://app.powerbi.com/groups/me/reports/0058e39d-3f17-45c6-bf92-a7a2d5d64568/6513b71b44b8d6896289?experience=power-bi">Clique aqui</a> e acesse a DFC desenvolvida.
+
+<a href="https://www.linkedin.com/pulse/demonstra%C3%A7%C3%A3o-de-fluxo-caixa-projeto-visualiza%C3%A7%C3%A3o-dados-menezes-jsoue/?trackingId=%2BHdHXZqFQ0aFG9FhJjkgFw%3D%3D">Clique aqui</a> e acesse o artigo no Linkedin.
+
 <br><br>
+
 
  
 
