@@ -8,7 +8,7 @@ Este projeto tem como objetivo analisar o fluxo de caixa de instituições finan
 
 O projeto começou com a coleta de dados financeiros em **Excel**, importados para o **Power BI** e tratados no **Power Query** para garantir consistência e confiabilidade:  
 <br>
-<img align="left" width="500"  src="https://github.com/camilla-menezes/DFCPortifolio/blob/main/Captura%20de%20tela%202025-09-16%20213255.png">
+<img align="left" width="500"  src="https://github.com/camilla-menezes/DFCPortifolio/blob/main/imagens/Captura%20de%20tela%202025-09-16%20213255.png">
 
 
 - Criação de parâmetro para diretório de arquivos, facilitando atualizações futuras;  <br>
@@ -38,7 +38,7 @@ Um **dicionário de dados** documenta cada coluna, seu tipo e propósito, garant
 
 ##  Dashboard Power BI
 <br>
-<img align="right" width="500"  src="https://github.com/camilla-menezes/DFCPortifolio/blob/main/Captura%20de%20tela%202025-09-16%20212116.png">
+<img align="right" width="500"  src="https://github.com/camilla-menezes/DFCPortifolio/blob/main/imagens/Captura%20de%20tela%202025-09-16%20212116.png">
 <br>
 O dashboard desenvolvido permite análises dinâmicas e interativas:  
 
